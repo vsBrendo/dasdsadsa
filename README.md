@@ -39,13 +39,14 @@ Seguindo boas práticas de programação.
 
 Pré-requisitos: Java 17
 
-´´´bash
+```bash
 # clonar repositório
+https://github.com/brendoviegass/ChessSystem.git
 
 # Executar o projeto
 Em sua IDE, execute a classe Program.java
 
-´´´bash
+```
 
 ## Autor
 
