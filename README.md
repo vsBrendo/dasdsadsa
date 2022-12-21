@@ -50,4 +50,5 @@ Em sua IDE, execute a classe Program.java
 
 ## Autor
 
-Brendo Viegas
+Brendo Viegas <br> <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/brendoviegasy)
